@@ -1,0 +1,1 @@
+max(abs(V(:,k+1)-V(:,k)))<TOL
